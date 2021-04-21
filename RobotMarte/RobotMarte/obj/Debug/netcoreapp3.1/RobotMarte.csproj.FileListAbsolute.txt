@@ -1,0 +1,13 @@
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.csprojAssemblyReference.cache
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.AssemblyInfoInputs.cache
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.AssemblyInfo.cs
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.csproj.CoreCompileInputs.cache
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\bin\Debug\netcoreapp3.1\RobotMarte.exe
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\bin\Debug\netcoreapp3.1\RobotMarte.deps.json
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\bin\Debug\netcoreapp3.1\RobotMarte.runtimeconfig.json
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\bin\Debug\netcoreapp3.1\RobotMarte.runtimeconfig.dev.json
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\bin\Debug\netcoreapp3.1\RobotMarte.dll
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\bin\Debug\netcoreapp3.1\RobotMarte.pdb
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.dll
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.pdb
+C:\Users\elisa.morcillo.diez\source\repos\RobotMarte\RobotMarte\obj\Debug\netcoreapp3.1\RobotMarte.genruntimeconfig.cache
